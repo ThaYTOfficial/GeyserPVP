@@ -1,6 +1,0 @@
-name: GeyserPvP
-version: '1.0-SNAPSHOT'
-main: me.thayt.geyserpvp.GeyserPvP
-depend:
-  - OldCombatMechanics
-  - Geyser-Spigot
