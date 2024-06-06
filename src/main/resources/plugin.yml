@@ -1,0 +1,6 @@
+name: GeyserPvP
+version: '${project.version}'
+main: me.thayt.geyserpvp.GeyserPvP
+depend:
+  - OldCombatMechanics
+  - Geyser-Spigot
